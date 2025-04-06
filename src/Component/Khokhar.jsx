@@ -1,10 +1,11 @@
 import React from 'react'
 
-export default function Header() {
+function Khokhar() {
   return (
     <div>
-      Ali Ashraf header
+      zain 
     </div>
   )
 }
 
+export default Khokhar
